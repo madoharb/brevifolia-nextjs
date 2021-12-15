@@ -1,4 +1,12 @@
 ---
 label: Mero
 hide_body: false
-fields: []
+fields:
+- name: nav
+  type: blocks
+  label: nav
+  template_types:
+  - mero
+  config:
+    min: 
+    max: 
